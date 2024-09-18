@@ -1,20 +1,24 @@
 
 
+
+
 def q1():
   #Write Assignment code here
   #Remember your code must be indented once
-
+  print (" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n")
+  print("* * * * *\n*\t*\n*\t*\n*\t*\n* * * * *\n")
+  print ("* * * * * *\n * \t *\n  *     *\n   *   *\n    * *\n     *")
 def q2():
   #Write Assignment code here
-  
+  print ("Hello ",end="")
+  print ("World")
 def q3():
   #Write Assignment code here
-  
-def q4():
-  #Write Assignment code here
+  print ("Man\nBoard\nMan Overboard")
+
+
 
 #Do not alter anything after this line
 q1()
 q2()
 q3()
-q4()
